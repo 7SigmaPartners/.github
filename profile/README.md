@@ -83,12 +83,9 @@ Back it with execution that ships.
 
 ## Contact
 
-**7Sigma Partners LLC**  
-255 S Orange Avenue, Suite 104  
-Orlando, FL 32801  
-
-7901 4TH ST N STE 300
-ST. PETERSBURG, FL 33702
+**7Sigma Partners LLC**
+7901 4th St N Ste 300 St. Petersburg, FL 33702
+255 S Orange Avenue, Suite 104 Orlando, FL 32801
 
 (877) 835-2007
 
