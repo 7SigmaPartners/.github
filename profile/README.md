@@ -83,9 +83,9 @@ Back it with execution that ships.
 
 ## Contact
 
-**7Sigma Partners LLC**<br>
+**7Sigma Partners LLC**
+<br><br>
 255 S Orange Avenue, Suite 104 Orlando, FL 32801
-
 (877) 835-2007
 
 → https://7sigma.io
